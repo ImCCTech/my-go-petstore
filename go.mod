@@ -1,4 +1,4 @@
-module tyun.cn/terraform-ali-petstore
+module github.com/TyunTech/terraform-petstore
 
 go 1.17
 
