@@ -3,7 +3,7 @@ package pets
 import (
 	"github.com/google/uuid"
 	"github.com/jinzhu/gorm"
-	"github.com/TyunTech/terraform-petstore/model/pet"
+	"github.com/ImCCTech/terraform-petstore/model/pet"
 )
 
 //CreatePetRequest request struct

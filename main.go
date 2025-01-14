@@ -9,8 +9,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/TyunTech/terraform-petstore/action/pets"
-	"github.com/TyunTech/terraform-petstore/model/pet"
+	"github.com/ImCCTech/terraform-petstore/action/pets"
+	"github.com/ImCCTech/terraform-petstore/model/pet"
 )
 
 var db *gorm.DB

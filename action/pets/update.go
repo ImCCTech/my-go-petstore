@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/jinzhu/gorm"
-	"github.com/TyunTech/terraform-petstore/model/pet"
+	"github.com/ImCCTech/terraform-petstore/model/pet"
 )
 
 //UpdatePetRequest request struct

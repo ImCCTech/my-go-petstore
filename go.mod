@@ -1,4 +1,4 @@
-module github.com/TyunTech/terraform-petstore
+module github.com/ImCCTech/terraform-petstore
 
 go 1.17
 

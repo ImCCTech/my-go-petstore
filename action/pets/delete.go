@@ -2,7 +2,7 @@ package pets
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/TyunTech/terraform-petstore/model/pet"
+	"github.com/ImCCTech/terraform-petstore/model/pet"
 )
 
 //DeletePetRequest request struct
